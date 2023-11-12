@@ -1,0 +1,63 @@
+body {
+  color: black;
+  font-size: 16px;
+  line-height: 1.5;
+  border: 5px solid;
+  font-family: sans-serif;
+}
+h2 {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+}
+
+.main-header {
+  background-color: #000000;
+}
+
+.amount-cost {
+  font-size: 25px;
+}
+
+#shipping-cost {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  color: grey;
+}
+
+#deception {
+  transform: translateY(-15px);
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.product-details {
+  text-transform: uppercase;
+}
+
+.add-item {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.add-item:hover {
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+
+#shoe-pic {
+  transform: translateX(0px);
+  border: 5px solid;
+}
